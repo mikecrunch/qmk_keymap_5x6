@@ -45,8 +45,8 @@
     ],
     [
       "KC_ESC",
-      "LCTL(KC_BTN1)",
-      "LGUI(KC_Z)",
+      "KC_COLN",
+      "KC_RPRN",
       "LSFT(KC_F1)",
       "KC_BSPC",
       "KC_P7",
@@ -54,7 +54,7 @@
       "KC_P9",
       "KC_PSLS",
       "KC_PPLS",
-      "KC_D",
+      "LGUI(KC_Z)",
       "KC_TAB",
       "LGUI(KC_V)",
       "LSFT(KC_F2)",
@@ -77,15 +77,15 @@
       "KC_NO",
       "KC_NO",
       "KC_TRNS",
-      "KC_RPRN",
-      "KC_QUES"
+      "KC_NO",
+      "KC_7"
     ],
     [
       "KC_F5",
       "LCTL(KC_LEFT)",
       "KC_UP",
       "LCTL(KC_RGHT)",
-      "KC_2",
+      "KC_LPRN",
       "KC_NO",
       "KC_NO",
       "KC_NO",
@@ -95,7 +95,7 @@
       "KC_LEFT",
       "KC_DOWN",
       "KC_RGHT",
-      "KC_AT",
+      "KC_RPRN",
       "LGUI(KC_W)",
       "LGUI(KC_LBRC)",
       "LCTL(KC_F5)",
@@ -151,8 +151,8 @@
       "KC_NO",
       "ANY(DRGSCRL)",
       "KC_BTN1",
-      "KC_BTN1",
-      "KC_BTN2"
+      "KC_BTN2",
+      "KC_BTN1"
     ]
   ],
   "author": ""
